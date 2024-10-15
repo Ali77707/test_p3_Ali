@@ -47,4 +47,5 @@ print(names[-1], names[-2], names[-3])
 
 names[0] = "Вася"
 print(names.count("Коля"))
-print(names.index("Коля"))
+print(names.index("Коля")) 
+print("DAAAA")
