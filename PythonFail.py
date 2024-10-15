@@ -49,3 +49,4 @@ names[0] = "Вася"
 print(names.count("Коля"))
 print(names.index("Коля")) 
 print("DAAAA")
+print("oooodaaaaa")
